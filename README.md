@@ -5,7 +5,8 @@
 
 # 🚀Seja muito bem vindo ao meu perfil!👋
 
-Sou bióloga e atualmente estou em processo de transição de carreira para a área de tecnologia. 
+Atualmente estou em processo de transição de carreira para a área de tecnologia. 
+Adoro compartilhar experiências e novidades com outras pessoas!
 ## Conecte-se comigo 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=E94D5F)](https://github.com/AixaNavarro)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/aixanavarrog/) 
