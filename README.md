@@ -9,7 +9,7 @@ Sou bióloga e atualmente estou em processo de transição de carreira para a á
 ## Conecte-se comigo 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=E94D5F)](https://github.com/AixaNavarro)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-FFF?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/aixanavarrog/) 
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/aixanavarro11/) 
+
 
 ### Em desenvolvimento
 ![LoadingGifGIF](https://github.com/digitalinnovationone/dio-lab-open-source/assets/123226012/5e625d4c-f5e7-4d33-bfa5-5bc8aee88f7d)
