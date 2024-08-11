@@ -3,7 +3,7 @@
 
 
 
-# 🚀Seja muito bem vindo ao meu perfil!👋
+# 🚀Seja muito bem vindA(o) ao meu perfil!👋
 
 Atualmente estou em processo de transição de carreira para a área de tecnologia. 
 Adoro compartilhar experiências e novidades com outras pessoas!
